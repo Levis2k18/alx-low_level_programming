@@ -1,3 +1,4 @@
+#include <limit.h>
 #include "main.h"
 /**
  * print_last_digit - function that computes the absolute value of an integer
